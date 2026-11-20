@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Selenium
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+
+# Allure
+allure-results/
+allure-report/
+
+# Screenshots
+screenshots/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+config.py
